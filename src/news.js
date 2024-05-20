@@ -2,6 +2,12 @@ import axios from "axios";
 import * as cheerio from "cheerio";
 import fs from "fs";
 
+/*
+1. 반복문으로 url을 뽑지 못했다.
+
+
+
+*/
 // 각 주의 URL과 종료 날짜 설정
 const urls = [
   {

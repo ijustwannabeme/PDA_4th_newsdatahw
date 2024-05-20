@@ -1,0 +1,114 @@
+[
+  {
+    "date": "2024-04-01",
+    "tradePrice": 82000,
+    "openingPrice": 83200,
+    "highPrice": 83300,
+    "lowPrice": 82000,
+    "candleAccTradePrice": 1661276148500
+  },
+  {
+    "date": "2024-04-02",
+    "tradePrice": 85000,
+    "openingPrice": 82900,
+    "highPrice": 85000,
+    "lowPrice": 82900,
+    "candleAccTradePrice": 3125936951369
+  },
+  {
+    "date": "2024-04-03",
+    "tradePrice": 84100,
+    "openingPrice": 84300,
+    "highPrice": 85000,
+    "lowPrice": 83500,
+    "candleAccTradePrice": 2570591804242
+  },
+  {
+    "date": "2024-04-04",
+    "tradePrice": 85300,
+    "openingPrice": 85200,
+    "highPrice": 85500,
+    "lowPrice": 84300,
+    "candleAccTradePrice": 2147309658606
+  },
+  {
+    "date": "2024-04-05",
+    "tradePrice": 84500,
+    "openingPrice": 84500,
+    "highPrice": 85000,
+    "lowPrice": 83800,
+    "candleAccTradePrice": 1593633428500
+  },
+  {
+    "date": "2024-04-08",
+    "tradePrice": 84500,
+    "openingPrice": 85200,
+    "highPrice": 86000,
+    "lowPrice": 84500,
+    "candleAccTradePrice": 1614571568700
+  },
+  {
+    "date": "2024-04-09",
+    "tradePrice": 83600,
+    "openingPrice": 84500,
+    "highPrice": 84900,
+    "lowPrice": 83100,
+    "candleAccTradePrice": 1991486775844
+  },
+  {
+    "date": "2024-04-11",
+    "tradePrice": 84100,
+    "openingPrice": 83200,
+    "highPrice": 84700,
+    "lowPrice": 82500,
+    "candleAccTradePrice": 2138954129378
+  },
+  {
+    "date": "2024-04-12",
+    "tradePrice": 83700,
+    "openingPrice": 84700,
+    "highPrice": 84900,
+    "lowPrice": 83200,
+    "candleAccTradePrice": 1429686717552
+  },
+  {
+    "date": "2024-04-15",
+    "tradePrice": 82200,
+    "openingPrice": 82900,
+    "highPrice": 83200,
+    "lowPrice": 81200,
+    "candleAccTradePrice": 2187767452704
+  },
+  {
+    "date": "2024-04-16",
+    "tradePrice": 80000,
+    "openingPrice": 81200,
+    "highPrice": 81300,
+    "lowPrice": 79400,
+    "candleAccTradePrice": 2564077294862
+  },
+  {
+    "date": "2024-04-17",
+    "tradePrice": 78900,
+    "openingPrice": 80700,
+    "highPrice": 80800,
+    "lowPrice": 78900,
+    "candleAccTradePrice": 1800985510820
+  },
+  {
+    "date": "2024-04-18",
+    "tradePrice": 79600,
+    "openingPrice": 78800,
+    "highPrice": 80100,
+    "lowPrice": 78300,
+    "candleAccTradePrice": 1694196738983
+  },
+  {
+    "date": "2024-04-19",
+    "tradePrice": 77600,
+    "openingPrice": 78300,
+    "highPrice": 78700,
+    "lowPrice": 76300,
+    "candleAccTradePrice": 2423649194900
+  }
+]
